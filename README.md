@@ -1,4 +1,4 @@
-< h1 align ='center'>![giphy](https://github.com/user-attachments/assets/e0a7a318-7cd2-49f2-88cb-0e0804ff1fe3)</h1>
+<h1 align ="center">![giphy](https://github.com/user-attachments/assets/e0a7a318-7cd2-49f2-88cb-0e0804ff1fe3)</h1>
 
 <h1 align="center">Hi 👋, I'm Aashaan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashaaniscoding&label=Profile%20views&color=0e75b6&style=plastic" alt="aashaaniscoding" /> </p>
