@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/6mRA7NS04xSZG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/smoking-tom-texas-6mRA7NS04xSZG">via GIPHY</a></p>
+![giphy](https://github.com/user-attachments/assets/e0a7a318-7cd2-49f2-88cb-0e0804ff1fe3)
 
 <h1 align="center">Hi 👋, I'm Aashaan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashaaniscoding&label=Profile%20views&color=0e75b6&style=plastic" alt="aashaaniscoding" /> </p>
