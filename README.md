@@ -1,6 +1,8 @@
+<h1 align="center">Hi 👋, I'm ആശാൻ</h1>
+
 ![giphy](https://github.com/user-attachments/assets/e0a7a318-7cd2-49f2-88cb-0e0804ff1fe3)
 
-<h1 align="center">Hi 👋, I'm Aashaan</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashaaniscoding&label=Profile%20views&color=0e75b6&style=plastic" alt="aashaaniscoding" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashaaniscoding" alt="aashaaniscoding" /></a> </p>
